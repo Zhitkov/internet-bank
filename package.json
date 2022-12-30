@@ -59,7 +59,7 @@
     "jsx-control-statements": "^3.2.6",
     "less": "2.7.1",
     "less-loader": "2.2.3",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "react-hot-loader": "^3.0.0-beta.7",
     "style-loader": "0.13.1",
     "stylus": "0.54.5",
